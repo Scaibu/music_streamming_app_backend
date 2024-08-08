@@ -1,1 +1,1 @@
-# music_streamming_app_backend
+# music streamming app backend
